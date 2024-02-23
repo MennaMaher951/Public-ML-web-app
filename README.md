@@ -1,4 +1,4 @@
-Multiple Disease Prediction Web App
+## Multiple Disease Prediction Web App
 * This repository contains the code for a web app that can be used to predict the risk of diabetes and heart disease. The app uses machine learning models that have been trained on data from real patients.
 
 How to use the app
